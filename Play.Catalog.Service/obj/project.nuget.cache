@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wkx80rzOL600c3do/zCJ6fBuoJNLa4wsTPa7ZjTfIp6F0cFAj9WwZuM6DqxG10QS4g6grtNyQjbMM6JoTfE7rg==",
+  "dgSpecHash": "JVR48FVd5ItDPNMQ+dqoLJpM8pey1jqHXE9Hw1TInqwADK3iINaTCP3Wbtit5hwLNhDOXyY24yxIZDNospL2zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaunda.dum\\Documents\\GitHub\\MicroservicesGame\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+  "projectFilePath": "C:\\Users\\kaunda.dum\\Documents\\GitHub\\GamesMicroservices\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaunda.dum\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\kaunda.dum\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
